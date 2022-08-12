@@ -1,0 +1,39 @@
+body {
+  background-color: #e5e5e5;
+}
+
+.welcome-section {
+  height: 100vh;
+  background-image: url(./images/main-image.png);
+  background-attachment: fixed;
+}
+
+.col-12.welcome-section-text {
+  padding-top: 15%;
+}
+
+.col-12.welcome-section-text h1 {
+  font-size: 5rem;
+}
+
+.about-section {
+  background-color: #e5e5e5;
+  padding: 3rem;
+}
+
+.big-font {
+  font-size: 3rem;
+  font-weight: 100;
+}
+
+.principles-section {
+  background-image: url(./images/principles-section-bg.png);
+  background-position: center top;
+  background-size: 100% auto;
+  background-attachment: fixed;
+}
+
+.pre-footer-section {
+  background-image: url(./images/main-image.png);
+  background-attachment: fixed;
+}
