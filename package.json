@@ -1,0 +1,23 @@
+{
+  "name": "ux_ui_hw_17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mywhiterussian/UX_UI_HW_17.git"
+  },
+  "author": "margo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mywhiterussian/UX_UI_HW_17/issues"
+  },
+  "homepage": "https://github.com/mywhiterussian/UX_UI_HW_17#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
